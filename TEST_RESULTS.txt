@@ -1,0 +1,17 @@
+Toucan Payments - Engineering Challenge 2026
+Test Results
+==============================
+
+Command:
+.\mvnw.cmd clean test
+
+Result:
+Tests run: 8
+Failures: 0
+Errors: 0
+Skipped: 0
+
+BUILD SUCCESS
+
+Verified on:
+29-Aug-2026
